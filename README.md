@@ -1,4 +1,4 @@
 # New Project
 
 This is demo of pushing local repo to  our remote repo
-by atharva kalbhor
+by atharva kalbhor.
